@@ -1,0 +1,23 @@
+{
+  "name": "trello-clone",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "parcel src/index.html --no-cache && parcel watch src/index.html",
+    "build": "npx parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViyaSilyantieva/Trello-clone.git"
+  },
+  "author": "Viya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViyaSilyantieva/Trello-clone/issues"
+  },
+  "homepage": "https://github.com/ViyaSilyantieva/Trello-clone#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.0",
+    "parcel": "^2.8.0"
+  }
+}

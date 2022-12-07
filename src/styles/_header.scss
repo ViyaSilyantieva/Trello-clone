@@ -1,0 +1,22 @@
+.trello__header {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    border: 3px solid #063606;
+    border-radius: 10px;
+    background: radial-gradient(circle, rgba(149,231,122,1) 0%, rgba(4,122,79,1) 100%);
+    padding: 40px;
+    margin-top: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.trello__logo {
+    font-family: 'Ultra';
+    font-size: 44px;
+    color: yellow;
+}
+.trello__time {
+    font-family: 'Ultra';
+    font-size: 28px;
+    color: yellow;
+}
