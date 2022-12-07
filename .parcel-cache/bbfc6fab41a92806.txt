@@ -41,7 +41,7 @@
 23D:\tms\Trello-clone\src133130956263670808 1
 76D:\tms\Trello-clone\node_modules\@parcel\workers\test\integration\workerfarm133130950031292333 1
 67D:\tms\Trello-clone\node_modules\type-fest\source\package-json.d.ts133130949997933379 0
-24D:\tms\Trello-clone\dist133148951706327060 1
+24D:\tms\Trello-clone\dist133148971630540819 1
 52D:\tms\Trello-clone\node_modules\semver\package.json133130949996813153 0
 41D:\tms\Trello-clone\node_modules\msgpackr133130950078137318 1
 71D:\tms\Trello-clone\node_modules\source-map\lib\source-map-generator.js133130949997473298 0
@@ -111,7 +111,7 @@
 64D:\tms\Trello-clone\node_modules\caniuse-lite\data\regions\YT.js133130950035664407 0
 39D:\tms\Trello-clone\node_modules\semver133130949997033180 1
 66D:\tms\Trello-clone\node_modules\@parcel\runtime-react-refresh\lib133130950077477166 1
-44D:\tms\Trello-clone\src\styles\_content.scss133147292513259740 0
+44D:\tms\Trello-clone\src\styles\_content.scss133148971797553595 0
 69D:\tms\Trello-clone\node_modules\dom-serializer\lib\foreignNames.d.ts133130949997543300 0
 56D:\tms\Trello-clone\src\styles\_fashion_window_todo.scss133146576614894856 0
 44D:\tms\Trello-clone\node_modules\detect-libc133130949996843149 1
@@ -2588,7 +2588,7 @@
 73D:\tms\Trello-clone\node_modules\css-tree\lib\syntax\node\TypeSelector.js133130949999391030 0
 73D:\tms\Trello-clone\node_modules\css-tree\lib\syntax\node\UnicodeRange.js133130949999401066 0
 86D:\tms\Trello-clone\node_modules\@parcel\runtime-js\lib\helpers\browser\wasm-loader.js133130950079506817 0
-47D:\tms\Trello-clone\dist\index.8d28056f.css.map133148950471682779 0
+47D:\tms\Trello-clone\dist\index.8d28056f.css.map133148971630540819 0
 64D:\tms\Trello-clone\node_modules\css-tree\lib\syntax\node\Url.js133130949999410600 0
 78D:\tms\Trello-clone\node_modules\caniuse-lite\data\features\resource-timing.js133130950033966641 0
 66D:\tms\Trello-clone\node_modules\css-tree\lib\syntax\node\Value.js133130949999420624 0
@@ -4341,7 +4341,7 @@
 44D:\tms\Trello-clone\node_modules\.bin\terser133130951278778599 0
 48D:\tms\Trello-clone\node_modules\.bin\terser.cmd133130951278778599 0
 48D:\tms\Trello-clone\node_modules\.bin\terser.ps1133130951278778599 0
-42D:\tms\Trello-clone\dist\index.0dc55f35.js133148951706277066 0
-46D:\tms\Trello-clone\dist\index.0dc55f35.js.map133148951706327060 0
-43D:\tms\Trello-clone\dist\index.8d28056f.css133148950471612771 0
-35D:\tms\Trello-clone\dist\index.html133148950471895995 0
+42D:\tms\Trello-clone\dist\index.0dc55f35.js133148968355202636 0
+46D:\tms\Trello-clone\dist\index.0dc55f35.js.map133148968355222632 0
+43D:\tms\Trello-clone\dist\index.8d28056f.css133148971630520810 0
+35D:\tms\Trello-clone\dist\index.html133148968354963159 0
