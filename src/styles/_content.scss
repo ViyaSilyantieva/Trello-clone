@@ -1,0 +1,189 @@
+.trello__content {
+    display: flex;
+    justify-content: space-around;
+    border: 3px solid #063606;
+    border-radius: 10px;
+    background: linear-gradient(0deg, rgba(241,245,213,1) 0%, rgba(201,244,196,1) 100%);
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.trello__todo {
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 400px;
+    height: 100%;
+    border: 1px solid #063606;
+    border-radius: 10px;
+    background-color: #f9fcdc;
+}
+.trello-todo__title {
+    font-family: 'Antic Slab';
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    border: 1px solid #063606;
+    border-color: transparent transparent #063606 transparent;
+    border-radius: 10px 10px 0 0;
+    background-color: yellow;
+    padding: 5px 0;
+}
+.trello-todo__container {
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 15px;
+}
+.trello-todo__actions {
+    padding-left: 110px;
+    padding-top: 10px;
+}
+.trello-todo__status {
+    font-family: 'Antic Slab';
+    font-size: 20px;
+    border: 2px solid #063606;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.trello-todo__edit {
+    font-family: 'Antic Slab';
+    font-size: 20px;
+    font-weight: bolder;
+    border: 2px solid #063606;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.trello-todo__edit:hover {
+    background-color: yellow;
+}
+.trello-todo__delete {
+    font-family: 'Antic Slab';
+    font-size: 20px;
+    border: 2px solid #063606;
+    border-radius: 10px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.trello-todo__delete:hover {
+    background-color: yellow;
+}
+.trello-todo__text {
+    padding-left: 10px;
+    font-family: 'Antic Slab';
+}
+.trello-todo__tit {
+    font-weight: bolder;
+    font-size: 32px;
+}
+.trello-todo__description {
+    font-size: 22px;
+}
+.trello-todo__user {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 15px;
+    font-family: 'Antic Slab';
+    font-size: 18px;
+}
+.btn-add__todo {
+    font-family: 'Antic Slab';
+    font-size: 32px;
+    font-weight: bolder;
+    background-color: yellow;
+    border-color: #063606 transparent transparent transparent;
+    border-radius: 0 0 10px 10px;
+    margin-top: 20%;
+    cursor: pointer;
+}
+.btn-add__todo:hover {
+    background-color: white;
+}
+.trello__inprogress {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 400px;
+    margin-top: 30px;
+    border: 1px solid #063606;
+    border-radius: 10px;
+    background-color: #cdf7d1;
+}
+.trello-inprogress__title {
+    font-family: 'Antic Slab';
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    border: 1px solid #063606;
+    border-color: transparent transparent #063606 transparent;
+    border-radius: 10px 10px 0 0;
+    background-color: #64b578;
+    padding: 5px;
+}
+.trello-inprogress__content {
+    margin-bottom: 20%;
+}
+.trello-todo__status__progress {
+    font-family: 'Antic Slab';
+    font-size: 24px;
+    border: 2px solid #063606;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 90px;
+}
+.trello__done {
+    width: 400px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 1px solid #063606;
+    border-radius: 10px;
+    background-color: #a7f2ad;
+}
+.trello-done__title {
+    font-family: 'Antic Slab';
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    border: 1px solid #063606;
+    border-color: transparent transparent #063606 transparent;
+    border-radius: 10px 10px 0 0;
+    background-color: #0c6e26;
+    padding: 5px 60px;
+    color: white;
+}
+.trello-todo__delete__done {
+    font-family: 'Antic Slab';
+    font-size: 24px;
+    font-weight: bolder;
+    margin-left: 150px;
+    background-color: #0c6e26;
+    border-color: #063606 transparent transparent transparent;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.trello-todo__delete__done:hover {
+    background-color: white;
+    color: #063606;
+}
+.btn-delete__done {
+    font-family: 'Antic Slab';
+    margin-top: 20%;
+    font-size: 32px;
+    font-weight: bolder;
+    background-color: #0c6e26;
+    border-color: #063606 transparent transparent transparent;
+    color: white;
+    border-radius: 0 0 10px 10px;
+    cursor: pointer;
+}
+
+.btn-delete__done:hover {
+    background-color: white;
+    color: #063606;
+}
